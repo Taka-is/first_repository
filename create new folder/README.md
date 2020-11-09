@@ -1,10 +1,4 @@
 # first_repository
- first repository for training
+basic repo for training
 
 Created for Intro to Git and GitHub from fredhutch.io
-Example repository used for demonstration purposes
-results.txt contains output from the analysis
-
-publish
-
-change on the web
